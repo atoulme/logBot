@@ -1,0 +1,8 @@
+= LogBot
+
+This is LogBot, a simple extension of pIRCBot to do logging. LogBot uses a small set of php files to render the logs.
+  
+== Changelog
+
+* 2010-11-16: Initial fork from the original maintainer (jibble.org)
+* 2010-11-16: Added support for password and channel key.
